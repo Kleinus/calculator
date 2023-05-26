@@ -1,0 +1,17 @@
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\bin\Debug\net6.0-windows\Miniräknare.exe
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\bin\Debug\net6.0-windows\Miniräknare.deps.json
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\bin\Debug\net6.0-windows\Miniräknare.runtimeconfig.json
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\bin\Debug\net6.0-windows\Miniräknare.dll
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\bin\Debug\net6.0-windows\Miniräknare.pdb
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.csproj.AssemblyReference.cache
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.Form1.resources
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.csproj.GenerateResource.cache
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.AssemblyInfoInputs.cache
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.AssemblyInfo.cs
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.csproj.CoreCompileInputs.cache
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.dll
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\refint\Miniräknare.dll
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.pdb
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\Miniräknare.genruntimeconfig.cache
+C:\Users\alexander.klein\source\repos\Miniräknare\Miniräknare\obj\Debug\net6.0-windows\ref\Miniräknare.dll
